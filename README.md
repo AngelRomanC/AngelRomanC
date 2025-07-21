@@ -15,33 +15,11 @@
 - 🎨 Frontend: HTML, CSS, JavaScript
 - 🗃️ Gestión de Base de datos: MYSQL, SQL
 - 🛠️ Herramientas: Github, LARAGON, XAMPP, Composer, Dbeaver, Visual Code Studio, Paqueteria Office, Oracle VirtualBox, Intellij IDEA
-- 🌎 Idiomas: English (C1) | Español (Nativo)
+- 🌎 Idiomas: English (B1) | Español (Nativo)
 
 ## 📌 Experiencia
 - 🌐 Desarrollo de Sistemas Web (Frontend y Backend)
-- 📈 Automatización de Procesos (Extraccion de Información de PDF y Pegarlo en EXCEL, Extraccion de Información de PDF y hacer el Cruce en Nomina).
-- 🕷️ Web Scraping (Extraccion de Información de Paginas Web y Pegarlo en Excel).
-- 🔧 Soporte Tecnico (Manteniminto Preventivo y Correctivo de Laptop's, PC de Escritorio, Administración de Redes).
 
-## 📜 Certificaciones
-- ✅ Formación IA Generativa - ONE (2025).
-- ✅ Formación SQL con MySQL - ONE (2025).
-- ✅ Python para Data Science: primeros pasos - ONE (2025).
-- ✅ AI Fundamentals with IBM SkillsBuild - CISCO (2025).
-- ✅ Artificial Intelligence Fundamentals - IBM (2025).
-- ✅ Programa Oracle Next Education F2 T7 Back-end - ONE (2025).
-- ✅ ChatGPT y programación: aumenta tu productividad - ONE (2025).
-- ✅ Introduction to Data Science - CISCO (2024).
-- ✅ Formación Java Orientado a Objetos G7 - ONE (2024).
-- ✅ Git y GitHub: repositorio, commit y versiones - ONE (2024).
-- ✅ Formación Principiante en Programación G7 - ONE (2024).
-- ✅ Formación Emprendimiento, Agilidad y Protagonismo Profesional G7 - ONE (2024).
-- ✅ Fundamentos de Agilidad: Primeros pasos para la transformación ágil - ONE (2024).
-- ✅ Tu perfil Profesional en Linkedin para llegar a más Empresas - UDEMY (2024).
-- ✅ IoT Fundamentals: Big Data & Analytics - CISCO (2023).
-- ✅ Emerging Technologies Workshop - Experimenting with REST APIs using Webex Teams - CISCO (2023).
-- ✅ Emerging Technologies Workshop - Model Driven Programmability - CISCO (2022).
 
-![Email](https://img.shields.io/badge/Email-moises.gonzalez.dev@gmail.com-572364?style=for-the-badge&logo=email&logoColor=white&labelColor=101010)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Moises_Silva_Gonzalez-0078D7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/moises-silva-gonzalez-07a4a12ba)
-[![Sitio_Web](https://img.shields.io/badge/Sitio_Web-Moises_Silva_Gonzalez-EFB810?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=101010)](https://moises-silva-dev.github.io/Portafolio/Dev_Portafolio.html)
+
+
